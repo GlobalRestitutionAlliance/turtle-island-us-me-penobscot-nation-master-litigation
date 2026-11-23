@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=ME+PENOBSCOT+NATION",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=ME+PENOBSCOT+NATION",
+  "title": "Federal Register - ME PENOBSCOT NATION",
+  "fetched_at": "2026-11-23T17:34:34.554819Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 328717,
+  "sha256": "430390077a7087a7a4b4e669c7ca8e31480399dadc2ab42ed4ed8ce801369696",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
